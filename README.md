@@ -11,4 +11,4 @@ Methodologies:- Data Cleaning and Analysis by removing and handling empty cells,
 Tools used: PowerBI 
 
 Visualisations used:-
-This dashboard uses a variety of visualisations to present key information about the Quartz Café & Grill. KPI cards are used at the top to display important metrics such as Loyalty Program Members, Average Total Rating, High Satisfaction Customers, and Unique Customers. 
+This dashboard uses a variety of attractive visualisations to present key information about the Quartz Café & Grill. KPI cards are used at the top to display important metrics such as Loyalty Program Members, Average Total Rating, High Satisfaction Customers, and Unique Customers. 
